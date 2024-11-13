@@ -6,14 +6,14 @@ Table of Contents
 
 Introduction
 
-  This repository provides example code for evaluating Gen AI models on three common NLP tasks:
+  - This repository provides example code for evaluating Gen AI models on three common NLP tasks:
 
 Use Cases
  
-  Text Classification
-      Evaluate the accuracy of a text classification model using the DistilBERT model.
-      Dataset: SST-2 (Stanford Sentiment Treebank)
-      Metric: Accuracy
+  - Text Classification
+      - Evaluate the accuracy of a text classification model using the DistilBERT model.
+      - Dataset: SST-2 (Stanford Sentiment Treebank)
+      - Metric: Accuracy
   
   Text Generation
       Evaluate the quality of generated text using the T5 model.
