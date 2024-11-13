@@ -3,8 +3,11 @@
 Gen AI Evaluation
 
 Table of Contents
+
 Introduction
+
   This repository provides example code for evaluating Gen AI models on three common NLP tasks:
+
 Use Cases
   Text Classification
       Evaluate the accuracy of a text classification model using the DistilBERT model.
