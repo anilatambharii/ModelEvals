@@ -2,8 +2,6 @@
 
 Gen AI Evaluation
 
-Table of Contents
-
 Introduction
 
   - This repository provides example code for evaluating Gen AI models on three common NLP tasks:
