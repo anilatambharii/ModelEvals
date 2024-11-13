@@ -15,38 +15,38 @@ Use Cases
       - Dataset: SST-2 (Stanford Sentiment Treebank)
       - Metric: Accuracy
   
-  Text Generation
-      Evaluate the quality of generated text using the T5 model.
-      Dataset: WikiText-103
-      Metric: BLEU Score
+  - Text Generation
+      - Evaluate the quality of generated text using the T5 model.
+      - Dataset: WikiText-103
+      - Metric: BLEU Score
   
-  Question Answering
-      Evaluate the accuracy of a question answering model using the DistilBERT model.
-      Dataset: SQuAD (Stanford Question Answering Dataset)
-      Metric: Accuracy
+  - Question Answering
+      - Evaluate the accuracy of a question answering model using the DistilBERT model.
+      - Dataset: SQuAD (Stanford Question Answering Dataset)
+      - Metric: Accuracy
   
-  Requirements
-      Python 3.8+
-      Transformers library (Hugging Face)
-      PyTorch 1.9+
-      NLTK library (for BLEU score calculation)
+  - Requirements
+      - Python 3.8+
+      - Transformers library (Hugging Face)
+      - PyTorch 1.9+
+      - NLTK library (for BLEU score calculation)
   
-  Installation
-      Bash
-      pip install transformers torch nltk
+  - Installation
+      - Bash
+      - pip install transformers torch nltk
   
-  Usage
-      Clone the repository: git clone https://github.com/your-repo/gen-ai-evaluation.git
-      Navigate to the desired use case directory: cd text-classification, cd text-generation, or cd question-answering
-      Run the evaluation script: python evaluate.py
+  - Usage
+      - Clone the repository: git clone https://github.com/your-repo/gen-ai-evaluation.git
+      - Navigate to the desired use case directory: cd text-classification, cd text-generation, or cd question-answering
+      - Run the evaluation script: python evaluate.py
   
-  Evaluation Metrics
-      Accuracy (Text Classification, Question Answering)
-      BLEU Score (Text Generation)
+  - Evaluation Metrics
+      - Accuracy (Text Classification, Question Answering)
+      - BLEU Score (Text Generation)
 
-License
+- License
 
-MIT License
+- MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
