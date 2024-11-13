@@ -52,6 +52,5 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Additional Resources:
-1) Hugging Face Transformers documentation: https://huggingface.co/docs/transformers/index 
-2) Gen AI documentations and 
-3) Evaluation metrics documentation:https://scikit-learn.org/stable/modules/model_evaluation.html 
+  1) Hugging Face Transformers documentation: https://huggingface.co/docs/transformers/index 
+  2) Evaluation metrics documentation:https://scikit-learn.org/stable/modules/model_evaluation.html 
